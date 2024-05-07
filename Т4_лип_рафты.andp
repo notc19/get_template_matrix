@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pathway_template length="2" version="20210324">
+  <components>
+    <component id="0">
+      <types>
+        <type id="2" name="Protein" checked="1"/>
+        <type id="3" name="Gene"/>
+        <type id="4" name="Metabolite"/>
+        <type id="5" name="Pathway"/>
+        <type id="6" name="Disease"/>
+        <type id="7" name="miRNA"/>
+        <type id="8" name="Component"/>
+        <type id="10" name="Cell"/>
+        <type id="11" name="Molecular function"/>
+        <type id="12" name="Drug"/>
+        <type id="13" name="Side effect"/>
+        <type id="14" name="Phenotype"/>
+        <type id="15" name="Pathogen"/>
+      </types>
+      <species>
+        <organism id="7747" name="Homo sapiens"/>
+      </species>
+      <syn_components/>
+      <db_components>
+        <db_component id="55558" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5361" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8829" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8828" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1524" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="150" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4543" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2359" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2917" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1956" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4233" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2066" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7132" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6272" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7133" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10332" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2837" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3683" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3689" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="30835" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3681" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6401" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2834" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2263" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2264" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2260" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2261" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="137970" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="219699" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1630" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="90249" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="136" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8633" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4756" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5745" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="117" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10266" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7433" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10268" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2843" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="154" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7434" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="155" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7253" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="53831" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4352" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2051" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2050" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2064" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2047" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2049" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2048" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2043" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="285220" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4851" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4855" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4853" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4854" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23654" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3693" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="238" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2045" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="284656" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2042" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2041" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2044" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1969" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3676" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="960" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3695" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7852" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3579" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3977" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3572" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9180" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4036" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1268" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3688" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5788" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1305" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1131" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3482" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="59352" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="55366" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8549" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="554" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="553" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="552" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5021" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4035" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="29909" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="967" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5175" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="729230" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6383" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1233" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1803" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1238" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2532" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1237" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="432" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7173" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2535" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8323" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3684" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4040" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4041" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3973" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="90" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="269" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2848" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9466" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2022" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4088" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7048" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3690" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7046" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="94" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3694" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3685" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="857" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3696" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="912" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="948" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6382" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6768" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3679" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3655" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3672" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3673" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="135" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3356" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64106" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10886" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5159" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5329" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="27202" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="728" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="943" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="122042" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="59350" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1436" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1441" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6259" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4920" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8321" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8324" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8325" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7855" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1230" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1234" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2826" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1232" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51554" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2833" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10803" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3678" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="22918" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2324" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4921" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="22801" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="164656" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="780" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="54933" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8516" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="961" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3791" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3674" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4982" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5817" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3577" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3559" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3561" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="963" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3949" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7097" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3815" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51348" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="90952" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6402" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6403" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3594" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3595" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="149233" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6385" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3588" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="53832" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3460" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3459" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9568" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="22914" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="928" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5618" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3598" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3597" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3566" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1439" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3568" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7037" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2209" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2065" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7436" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2152" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4973" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="799" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4547" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51599" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10333" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7099" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7804" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8322" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7056" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7010" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8764" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="19" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5251" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9365" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3455" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3454" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10267" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8793" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8737" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8795" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8794" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6262" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="93" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="25805" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="91" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5338" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="132014" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10551" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2915" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2911" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="659" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="657" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="148738" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="658" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2676" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5979" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9672" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2675" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64096" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2674" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3604" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7186" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23495" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="939" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="930" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4179" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1380" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3687" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="719" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8519" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1378" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="975" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1139" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="146760" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84894" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3363" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3350" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3355" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3352" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3358" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3360" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3362" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3351" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3357" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3361" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3354" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4544" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="90411" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1137" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="54209" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6653" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="949" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4038" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1000" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23547" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="389400" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4059" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2811" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4923" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23620" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2925" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="680" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4829" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8811" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1829" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="91584" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5362" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="26525" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8808" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3554" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7850" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6256" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="977" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10457" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10098" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23555" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="83882" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23705" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="81619" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3570" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="26262" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="558" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4897" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="286133" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="55576" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="140885" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3480" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10219" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3682" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5797" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5792" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="55540" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="11141" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3556" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="59307" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1005" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="55716" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5793" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3575" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1308" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10316" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="50615" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2239" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="53834" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3590" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5754" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4919" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57216" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5796" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8326" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7976" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84168" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4582" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6693" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6092" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="339403" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="624" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7096" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5787" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1272" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2492" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23129" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23467" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="134391" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2587" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6091" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23767" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="186" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5727" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64399" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="91653" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="50937" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8643" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3269" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3274" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="11255" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5746" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10887" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="50848" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="100506658" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10159" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3786" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="56479" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4638" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5136" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3643" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="114" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5137" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51206" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6336" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="403313" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="363" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="85366" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="358" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6329" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9378" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1395" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1394" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4158" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84133" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3761" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="962" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8809" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10068" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8291" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2321" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7293" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="147495" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2358" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="26020" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5337" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3921" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="27242" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23385" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="177" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8434" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="79412" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="147372" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="643" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6755" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6752" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6753" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4160" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4161" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="362" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2099" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="367" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4588" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4586" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="214" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="80036" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6261" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8685" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3061" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3062" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="576" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23266" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="22859" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10663" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8718" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51330" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7430" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4478" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1902" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2846" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9170" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5027" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3601" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="140767" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3563" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1438" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57758" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2262" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2619" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1235" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="60682" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="54106" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51284" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="338328" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7075" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="355" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8717" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4987" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51289" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2904" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3772" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3738" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3766" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3751" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2903" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="940" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7201" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4099" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="124446" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9369" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="266727" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1003" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3161" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2812" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2149" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9034" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1271" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9244" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2690" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57088" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="79651" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3953" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23566" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="53637" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1909" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="134" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="151" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2357" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1903" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4988" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10076" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6915" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1910" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1813" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="113" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10399" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6865" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6331" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6334" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4593" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="346689" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="390243" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6567" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2832" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2831" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="26047" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="887" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10203" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="79679" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="919" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5733" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3792" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="55504" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2706" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="50999" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5803" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5802" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="259197" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6005" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9332" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2913" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2914" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2740" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7222" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5786" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2696" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2205" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4889" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4886" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5540" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9289" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="185" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="958" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="240" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8771" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84059" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4914" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5365" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57537" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7442" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9500" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="27018" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="22986" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7187" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2642" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64220" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10288" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="60401" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="27040" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="917" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3811" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3822" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3824" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3821" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="133396" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="478" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1364" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7100" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="25945" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6510" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="91147" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5134" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8792" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4157" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7036" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3077" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2866" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="146722" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="187" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="100431172" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2867" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2825" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="83552" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1080" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3675" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8993" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="972" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="920" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6344" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="65078" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="608" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="933" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3784" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2046" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4804" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1815" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2191" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="29992" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3691" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7049" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3560" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="623" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10544" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="128674" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2742" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3750" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2862" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8797" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57030" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="333" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="973" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2057" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23554" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="55848" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="708" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2798" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3732" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3587" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="969" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4055" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="11211" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3820" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9173" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84634" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4985" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2693" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="92" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2322" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="976" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5153" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="130399" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4159" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3581" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5732" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8698" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10893" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="79713" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1236" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="821" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9002" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2847" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8484" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64101" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6608" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="968" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="417" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="11024" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5819" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4142" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3000" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10462" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6754" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="56923" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10894" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57498" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="59340" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1830" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1828" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5156" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="152831" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4907" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4284" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10913" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10154" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3134" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="30061" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2984" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="945" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23295" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9340" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7305" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7224" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3783" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8455" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8578" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2906" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="334" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7301" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5818" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4162" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2817" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="941" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8807" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8506" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3680" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4883" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2028" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9379" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4986" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="775" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6751" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="58985" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1952" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2212" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="83417" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57007" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4915" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="57689" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84539" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="22925" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7070" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23643" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="909" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="11054" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="27020" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="267" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="115650" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5739" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="221914" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2905" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="115" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10461" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="886" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84818" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4486" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2151" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2150" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51752" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="116379" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="107" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6571" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8642" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="11318" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="915" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5734" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6870" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5729" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6869" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1493" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2815" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="54538" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="340024" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1901" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="259249" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2861" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1128" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64805" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9902" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="117144" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="222545" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2829" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="131450" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1240" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84868" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1464" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10859" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="29851" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="30817" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2692" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="23765" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="131566" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6514" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3812" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2863" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="163702" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="53833" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8784" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1260" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="83999" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8390" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4887" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="11251" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3916" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="117194" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5133" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3802" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51338" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3805" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4882" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="51094" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="3804" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="921" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="54020" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="89790" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="433" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="160364" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5284" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="79602" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5364" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="55503" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4916" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="9283" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="81607" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="910" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="4881" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="8515" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6975" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="914" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64123" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10103" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="6572" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="1269" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="83959" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="387129" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7007" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="84109" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="10936" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="64115" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="971" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="7226" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+        <db_component id="2859" db_id="11" db_name="GeneID" component_type="Protein" component_type_id="2"/>
+      </db_components>
+    </component>
+    <component id="1">
+      <types>
+        <type id="2" name="Protein" checked="1"/>
+        <type id="3" name="Gene"/>
+        <type id="4" name="Metabolite"/>
+        <type id="5" name="Pathway"/>
+        <type id="6" name="Disease"/>
+        <type id="7" name="miRNA"/>
+        <type id="8" name="Component"/>
+        <type id="10" name="Cell"/>
+        <type id="11" name="Molecular function"/>
+        <type id="12" name="Drug"/>
+        <type id="13" name="Side effect"/>
+        <type id="14" name="Phenotype"/>
+        <type id="15" name="Pathogen"/>
+      </types>
+      <species>
+        <organism id="7747" name="Homo sapiens"/>
+      </species>
+      <syn_components/>
+      <db_components/>
+    </component>
+    <component id="2">
+      <types>
+        <type id="2" name="Protein" checked="1"/>
+        <type id="3" name="Gene"/>
+        <type id="4" name="Metabolite"/>
+        <type id="5" name="Pathway"/>
+        <type id="6" name="Disease"/>
+        <type id="7" name="miRNA"/>
+        <type id="8" name="Component"/>
+        <type id="10" name="Cell"/>
+        <type id="11" name="Molecular function"/>
+        <type id="12" name="Drug"/>
+        <type id="13" name="Side effect"/>
+        <type id="14" name="Phenotype"/>
+        <type id="15" name="Pathogen"/>
+      </types>
+      <species>
+        <organism id="7747" name="Homo sapiens"/>
+      </species>
+      <syn_components/>
+      <db_components>
+        <db_component id="TR61B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLCTK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL1B1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ALDH2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3A1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3A2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3B1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3B2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL7A1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL9A1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UPP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UPP2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="DPYD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="TRMB_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="LACC1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KAD3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5M_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5C_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NTD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D4_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT1B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT1A_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT3A_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADA2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR9_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYL1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYL2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYL3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYAT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="CATD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MGMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MAOX_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MDHM_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MAON_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MDHC_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="FUMH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MAOM_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ITPA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENTP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENTP8_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENTP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NDKM_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="APT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR8_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR9_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR8_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PURA2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PURA1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="XDH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HPRT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="S29A2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KFA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KYNU_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AOXA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NNMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="TRMB_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT3B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="APT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HPRT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GUAD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="TGT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GCH1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAS2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAQ_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="QTRT2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAI1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENPP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENPP3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="COASY_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RGN_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNTK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UCK2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UCK1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KGUA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RENBP_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NAGK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLCNE_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HNMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="DCHS_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HRH2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MBD2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="A1CF_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MBD1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ASMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="APOH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="CRLS1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="LCLT1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+      </db_components>
+    </component>
+  </components>
+  <interactions>
+    <interaction id="0" direction="0">
+      <databases>
+        <database id="298" name="afcs" checked="1"/>
+        <database id="299" name="AGI_LocusCode"/>
+        <database id="521" name="araport11"/>
+        <database id="303" name="AspGD"/>
+        <database id="27" name="BioGrid" checked="1"/>
+        <database id="139" name="CGD"/>
+        <database id="168" name="CHEBI" checked="1"/>
+        <database id="425" name="Clinvar"/>
+        <database id="640" name="ComplexPortal"/>
+        <database id="824" name="COVID19 Interactions"/>
+        <database id="85" name="dictyBase"/>
+        <database id="63" name="DIP" checked="1"/>
+        <database id="66" name="EC"/>
+        <database id="316" name="EcoliWiki"/>
+        <database id="4" name="EMBL"/>
+        <database id="297" name="emdb" checked="1"/>
+        <database id="661" name="EMPTY_NAME_ERROR"/>
+        <database id="41" name="Ensembl"/>
+        <database id="530" name="ENSEMBL_GeneID"/>
+        <database id="257" name="FB"/>
+        <database id="76" name="FlyBase"/>
+        <database id="308" name="GB"/>
+        <database id="306" name="GenBank"/>
+        <database id="445" name="GeneDB"/>
+        <database id="11" name="GeneID"/>
+        <database id="20" name="GO" checked="1"/>
+        <database id="310" name="GR_PROTEIN"/>
+        <database id="97" name="HGNC"/>
+        <database id="154" name="HPRD" checked="1"/>
+        <database id="291" name="imex" checked="1"/>
+        <database id="321" name="innatedb"/>
+        <database id="322" name="innatedb allergy"/>
+        <database id="42" name="IntAct" checked="1"/>
+        <database id="36" name="InterPro" checked="1"/>
+        <database id="311" name="JCVI_CMR"/>
+        <database id="305" name="KEGG REACTION accession"/>
+        <database id="318" name="KEGG_LIGAND"/>
+        <database id="319" name="MaizeGDB_Locus"/>
+        <database id="54" name="MGI"/>
+        <database id="99" name="MIM"/>
+        <database id="47" name="MINT" checked="1"/>
+        <database id="331" name="miRTarBase"/>
+        <database id="300" name="mpidb" checked="1"/>
+        <database id="528" name="NCBI_Gene"/>
+        <database id="304" name="NCBI_gi"/>
+        <database id="315" name="NCBI_GP"/>
+        <database id="45" name="PANTHER"/>
+        <database id="21" name="PDB"/>
+        <database id="293" name="pdbe"/>
+        <database id="38" name="Pfam"/>
+        <database id="14" name="PIR"/>
+        <database id="869" name="PlantregMap"/>
+        <database id="77" name="PomBase"/>
+        <database id="247" name="PR"/>
+        <database id="309" name="protein_id"/>
+        <database id="292" name="psi-mi" checked="1"/>
+        <database id="858" name="psi-mi:MI"/>
+        <database id="254" name="PubChem_Compound"/>
+        <database id="317" name="PubChem_Substance"/>
+        <database id="221" name="Pubmed"/>
+        <database id="507" name="Pubmed 1990"/>
+        <database id="511" name="Pubmed 1991"/>
+        <database id="503" name="Pubmed 1992"/>
+        <database id="491" name="Pubmed 1993"/>
+        <database id="490" name="Pubmed 1994"/>
+        <database id="494" name="Pubmed 1995"/>
+        <database id="501" name="Pubmed 1996"/>
+        <database id="506" name="Pubmed 1997"/>
+        <database id="509" name="Pubmed 1998"/>
+        <database id="505" name="Pubmed 1999"/>
+        <database id="498" name="Pubmed 2000"/>
+        <database id="487" name="Pubmed 2001"/>
+        <database id="492" name="Pubmed 2002"/>
+        <database id="508" name="Pubmed 2003"/>
+        <database id="489" name="Pubmed 2004"/>
+        <database id="510" name="Pubmed 2005"/>
+        <database id="486" name="Pubmed 2006"/>
+        <database id="497" name="Pubmed 2007"/>
+        <database id="496" name="Pubmed 2008"/>
+        <database id="504" name="Pubmed 2009"/>
+        <database id="502" name="Pubmed 2010"/>
+        <database id="500" name="Pubmed 2011"/>
+        <database id="493" name="Pubmed 2012"/>
+        <database id="488" name="Pubmed 2013"/>
+        <database id="499" name="Pubmed 2014"/>
+        <database id="495" name="Pubmed 2015"/>
+        <database id="512" name="Pubmed 2016"/>
+        <database id="518" name="Pubmed 2017"/>
+        <database id="532" name="Pubmed 2018"/>
+        <database id="787" name="Pubmed 2019"/>
+        <database id="786" name="Pubmed 2020"/>
+        <database id="791" name="Pubmed 2021"/>
+        <database id="573" name="Pubmed central"/>
+        <database id="557" name="Pubmed central 1900"/>
+        <database id="572" name="Pubmed central 1901"/>
+        <database id="634" name="Pubmed central 1931"/>
+        <database id="617" name="Pubmed central 1932"/>
+        <database id="618" name="Pubmed central 1933"/>
+        <database id="619" name="Pubmed central 1934"/>
+        <database id="621" name="Pubmed central 1935"/>
+        <database id="630" name="Pubmed central 1936"/>
+        <database id="626" name="Pubmed central 1938"/>
+        <database id="628" name="Pubmed central 1939"/>
+        <database id="629" name="Pubmed central 1940"/>
+        <database id="627" name="Pubmed central 1941"/>
+        <database id="631" name="Pubmed central 1942"/>
+        <database id="620" name="Pubmed central 1943"/>
+        <database id="625" name="Pubmed central 1944"/>
+        <database id="623" name="Pubmed central 1945"/>
+        <database id="624" name="Pubmed central 1946"/>
+        <database id="584" name="Pubmed central 1947"/>
+        <database id="549" name="Pubmed central 1948"/>
+        <database id="585" name="Pubmed central 1949"/>
+        <database id="586" name="Pubmed central 1950"/>
+        <database id="587" name="Pubmed central 1951"/>
+        <database id="588" name="Pubmed central 1952"/>
+        <database id="589" name="Pubmed central 1953"/>
+        <database id="590" name="Pubmed central 1954"/>
+        <database id="602" name="Pubmed central 1955"/>
+        <database id="605" name="Pubmed central 1956"/>
+        <database id="603" name="Pubmed central 1957"/>
+        <database id="604" name="Pubmed central 1958"/>
+        <database id="606" name="Pubmed central 1959"/>
+        <database id="607" name="Pubmed central 1960"/>
+        <database id="597" name="Pubmed central 1961"/>
+        <database id="598" name="Pubmed central 1962"/>
+        <database id="599" name="Pubmed central 1963"/>
+        <database id="600" name="Pubmed central 1964"/>
+        <database id="601" name="Pubmed central 1965"/>
+        <database id="591" name="Pubmed central 1966"/>
+        <database id="592" name="Pubmed central 1967"/>
+        <database id="593" name="Pubmed central 1968"/>
+        <database id="569" name="Pubmed central 1969"/>
+        <database id="570" name="Pubmed central 1970"/>
+        <database id="571" name="Pubmed central 1971"/>
+        <database id="567" name="Pubmed central 1972"/>
+        <database id="568" name="Pubmed central 1973"/>
+        <database id="566" name="Pubmed central 1974"/>
+        <database id="564" name="Pubmed central 1975"/>
+        <database id="565" name="Pubmed central 1976"/>
+        <database id="563" name="Pubmed central 1977"/>
+        <database id="561" name="Pubmed central 1978"/>
+        <database id="562" name="Pubmed central 1979"/>
+        <database id="560" name="Pubmed central 1980"/>
+        <database id="558" name="Pubmed central 1981"/>
+        <database id="559" name="Pubmed central 1982"/>
+        <database id="594" name="Pubmed central 1983"/>
+        <database id="579" name="Pubmed central 1984"/>
+        <database id="580" name="Pubmed central 1985"/>
+        <database id="582" name="Pubmed central 1986"/>
+        <database id="583" name="Pubmed central 1987"/>
+        <database id="609" name="Pubmed central 1988"/>
+        <database id="610" name="Pubmed central 1989"/>
+        <database id="577" name="Pubmed central 1990"/>
+        <database id="578" name="Pubmed central 1991"/>
+        <database id="581" name="Pubmed central 1992"/>
+        <database id="575" name="Pubmed central 1993"/>
+        <database id="576" name="Pubmed central 1994"/>
+        <database id="595" name="Pubmed central 1995"/>
+        <database id="608" name="Pubmed central 1996"/>
+        <database id="596" name="Pubmed central 1997"/>
+        <database id="574" name="Pubmed central 1998"/>
+        <database id="551" name="Pubmed central 1999"/>
+        <database id="554" name="Pubmed central 2000"/>
+        <database id="553" name="Pubmed central 2001"/>
+        <database id="552" name="Pubmed central 2002"/>
+        <database id="550" name="Pubmed central 2003"/>
+        <database id="556" name="Pubmed central 2004"/>
+        <database id="555" name="Pubmed central 2005"/>
+        <database id="548" name="Pubmed central 2006"/>
+        <database id="547" name="Pubmed central 2007"/>
+        <database id="535" name="Pubmed central 2008"/>
+        <database id="544" name="Pubmed central 2009"/>
+        <database id="538" name="Pubmed central 2010"/>
+        <database id="541" name="Pubmed central 2011"/>
+        <database id="536" name="Pubmed central 2012"/>
+        <database id="545" name="Pubmed central 2013"/>
+        <database id="534" name="Pubmed central 2014"/>
+        <database id="533" name="Pubmed central 2015"/>
+        <database id="540" name="Pubmed central 2016"/>
+        <database id="537" name="Pubmed central 2017"/>
+        <database id="546" name="Pubmed central 2018"/>
+        <database id="612" name="Pubmed central 2019"/>
+        <database id="793" name="Pubmed central 2020"/>
+        <database id="794" name="Pubmed central 2021"/>
+        <database id="795" name="Pubmed central 2022"/>
+        <database id="743" name="RAP2018-11-26"/>
+        <database id="289" name="rcsb pdb" checked="1"/>
+        <database id="5" name="RefSeq"/>
+        <database id="51" name="RGD"/>
+        <database id="189" name="Rhea"/>
+        <database id="527" name="RNAcentral"/>
+        <database id="92" name="SGD" checked="1"/>
+        <database id="2" name="SWISSPROT_AC" checked="1"/>
+        <database id="69" name="TAIR"/>
+        <database id="744" name="tfclass"/>
+        <database id="642" name="TIGR_CMR"/>
+        <database id="867" name="TransFac"/>
+        <database id="48" name="UniPathway"/>
+        <database id="218" name="UniProtKB-KW"/>
+        <database id="236" name="UniProtKB-SubCell"/>
+        <database id="519" name="UniRule"/>
+        <database id="864" name="virhostnet-nrid"/>
+        <database id="862" name="virhostnet-rid"/>
+        <database id="307" name="WB"/>
+        <database id="32" name="WormBase"/>
+        <database id="290" name="wwpdb" checked="1"/>
+        <database id="87" name="Xenbase"/>
+        <database id="93" name="ZFIN"/>
+      </databases>
+      <interactiontypes>
+        <interactiontype id="172" name="activity downregulation"/>
+        <interactiontype id="171" name="activity regulation"/>
+        <interactiontype id="173" name="activity upregulation"/>
+        <interactiontype id="72" name="association"/>
+        <interactiontype id="31" name="catalyze"/>
+        <interactiontype id="101" name="catalyze modification"/>
+        <interactiontype id="147" name="cleavage"/>
+        <interactiontype id="149" name="coexpression"/>
+        <interactiontype id="100" name="conversion"/>
+        <interactiontype id="177" name="degradation downregulation"/>
+        <interactiontype id="181" name="degradation regulation"/>
+        <interactiontype id="176" name="degradation upregulation"/>
+        <interactiontype id="120" name="downregulation"/>
+        <interactiontype id="1" name="Expression"/>
+        <interactiontype id="157" name="expression downregulation"/>
+        <interactiontype id="158" name="expression regulation"/>
+        <interactiontype id="170" name="expression upregulation"/>
+        <interactiontype id="2" name="interaction" checked="1"/>
+        <interactiontype id="106" name="invasiveness downregulation"/>
+        <interactiontype id="105" name="invasiveness regulation"/>
+        <interactiontype id="118" name="invasiveness upregulation"/>
+        <interactiontype id="56" name="Involvement"/>
+        <interactiontype id="122" name="migration downregulation"/>
+        <interactiontype id="121" name="migration regulation"/>
+        <interactiontype id="127" name="migration upregulation"/>
+        <interactiontype id="41" name="miRNA regulation"/>
+        <interactiontype id="131" name="proliferation downregulation"/>
+        <interactiontype id="128" name="proliferation regulation"/>
+        <interactiontype id="129" name="proliferation upregulation"/>
+        <interactiontype id="155" name="regulation"/>
+        <interactiontype id="141" name="self_renewal downregulation"/>
+        <interactiontype id="136" name="self_renewal regulation"/>
+        <interactiontype id="140" name="self_renewal upregulation"/>
+        <interactiontype id="143" name="survival downregulation"/>
+        <interactiontype id="144" name="survival regulation"/>
+        <interactiontype id="142" name="survival upregulation"/>
+        <interactiontype id="197" name="transport regulation"/>
+        <interactiontype id="156" name="treatment"/>
+        <interactiontype id="119" name="upregulation"/>
+      </interactiontypes>
+    </interaction>
+    <interaction id="1" direction="0">
+      <databases>
+        <database id="298" name="afcs" checked="1"/>
+        <database id="299" name="AGI_LocusCode"/>
+        <database id="521" name="araport11"/>
+        <database id="303" name="AspGD"/>
+        <database id="27" name="BioGrid" checked="1"/>
+        <database id="139" name="CGD"/>
+        <database id="168" name="CHEBI" checked="1"/>
+        <database id="425" name="Clinvar"/>
+        <database id="640" name="ComplexPortal"/>
+        <database id="824" name="COVID19 Interactions"/>
+        <database id="85" name="dictyBase"/>
+        <database id="63" name="DIP" checked="1"/>
+        <database id="66" name="EC"/>
+        <database id="316" name="EcoliWiki"/>
+        <database id="4" name="EMBL"/>
+        <database id="297" name="emdb" checked="1"/>
+        <database id="661" name="EMPTY_NAME_ERROR"/>
+        <database id="41" name="Ensembl"/>
+        <database id="530" name="ENSEMBL_GeneID"/>
+        <database id="257" name="FB"/>
+        <database id="76" name="FlyBase"/>
+        <database id="308" name="GB"/>
+        <database id="306" name="GenBank"/>
+        <database id="445" name="GeneDB"/>
+        <database id="11" name="GeneID"/>
+        <database id="20" name="GO" checked="1"/>
+        <database id="310" name="GR_PROTEIN"/>
+        <database id="97" name="HGNC"/>
+        <database id="154" name="HPRD" checked="1"/>
+        <database id="291" name="imex" checked="1"/>
+        <database id="321" name="innatedb"/>
+        <database id="322" name="innatedb allergy"/>
+        <database id="42" name="IntAct" checked="1"/>
+        <database id="36" name="InterPro" checked="1"/>
+        <database id="311" name="JCVI_CMR"/>
+        <database id="305" name="KEGG REACTION accession"/>
+        <database id="318" name="KEGG_LIGAND"/>
+        <database id="319" name="MaizeGDB_Locus"/>
+        <database id="54" name="MGI"/>
+        <database id="99" name="MIM"/>
+        <database id="47" name="MINT" checked="1"/>
+        <database id="331" name="miRTarBase"/>
+        <database id="300" name="mpidb" checked="1"/>
+        <database id="528" name="NCBI_Gene"/>
+        <database id="304" name="NCBI_gi"/>
+        <database id="315" name="NCBI_GP"/>
+        <database id="45" name="PANTHER"/>
+        <database id="21" name="PDB"/>
+        <database id="293" name="pdbe"/>
+        <database id="38" name="Pfam"/>
+        <database id="14" name="PIR"/>
+        <database id="869" name="PlantregMap"/>
+        <database id="77" name="PomBase"/>
+        <database id="247" name="PR"/>
+        <database id="309" name="protein_id"/>
+        <database id="292" name="psi-mi" checked="1"/>
+        <database id="858" name="psi-mi:MI"/>
+        <database id="254" name="PubChem_Compound"/>
+        <database id="317" name="PubChem_Substance"/>
+        <database id="221" name="Pubmed"/>
+        <database id="507" name="Pubmed 1990"/>
+        <database id="511" name="Pubmed 1991"/>
+        <database id="503" name="Pubmed 1992"/>
+        <database id="491" name="Pubmed 1993"/>
+        <database id="490" name="Pubmed 1994"/>
+        <database id="494" name="Pubmed 1995"/>
+        <database id="501" name="Pubmed 1996"/>
+        <database id="506" name="Pubmed 1997"/>
+        <database id="509" name="Pubmed 1998"/>
+        <database id="505" name="Pubmed 1999"/>
+        <database id="498" name="Pubmed 2000"/>
+        <database id="487" name="Pubmed 2001"/>
+        <database id="492" name="Pubmed 2002"/>
+        <database id="508" name="Pubmed 2003"/>
+        <database id="489" name="Pubmed 2004"/>
+        <database id="510" name="Pubmed 2005"/>
+        <database id="486" name="Pubmed 2006"/>
+        <database id="497" name="Pubmed 2007"/>
+        <database id="496" name="Pubmed 2008"/>
+        <database id="504" name="Pubmed 2009"/>
+        <database id="502" name="Pubmed 2010"/>
+        <database id="500" name="Pubmed 2011"/>
+        <database id="493" name="Pubmed 2012"/>
+        <database id="488" name="Pubmed 2013"/>
+        <database id="499" name="Pubmed 2014"/>
+        <database id="495" name="Pubmed 2015"/>
+        <database id="512" name="Pubmed 2016"/>
+        <database id="518" name="Pubmed 2017"/>
+        <database id="532" name="Pubmed 2018"/>
+        <database id="787" name="Pubmed 2019"/>
+        <database id="786" name="Pubmed 2020"/>
+        <database id="791" name="Pubmed 2021"/>
+        <database id="573" name="Pubmed central"/>
+        <database id="557" name="Pubmed central 1900"/>
+        <database id="572" name="Pubmed central 1901"/>
+        <database id="634" name="Pubmed central 1931"/>
+        <database id="617" name="Pubmed central 1932"/>
+        <database id="618" name="Pubmed central 1933"/>
+        <database id="619" name="Pubmed central 1934"/>
+        <database id="621" name="Pubmed central 1935"/>
+        <database id="630" name="Pubmed central 1936"/>
+        <database id="626" name="Pubmed central 1938"/>
+        <database id="628" name="Pubmed central 1939"/>
+        <database id="629" name="Pubmed central 1940"/>
+        <database id="627" name="Pubmed central 1941"/>
+        <database id="631" name="Pubmed central 1942"/>
+        <database id="620" name="Pubmed central 1943"/>
+        <database id="625" name="Pubmed central 1944"/>
+        <database id="623" name="Pubmed central 1945"/>
+        <database id="624" name="Pubmed central 1946"/>
+        <database id="584" name="Pubmed central 1947"/>
+        <database id="549" name="Pubmed central 1948"/>
+        <database id="585" name="Pubmed central 1949"/>
+        <database id="586" name="Pubmed central 1950"/>
+        <database id="587" name="Pubmed central 1951"/>
+        <database id="588" name="Pubmed central 1952"/>
+        <database id="589" name="Pubmed central 1953"/>
+        <database id="590" name="Pubmed central 1954"/>
+        <database id="602" name="Pubmed central 1955"/>
+        <database id="605" name="Pubmed central 1956"/>
+        <database id="603" name="Pubmed central 1957"/>
+        <database id="604" name="Pubmed central 1958"/>
+        <database id="606" name="Pubmed central 1959"/>
+        <database id="607" name="Pubmed central 1960"/>
+        <database id="597" name="Pubmed central 1961"/>
+        <database id="598" name="Pubmed central 1962"/>
+        <database id="599" name="Pubmed central 1963"/>
+        <database id="600" name="Pubmed central 1964"/>
+        <database id="601" name="Pubmed central 1965"/>
+        <database id="591" name="Pubmed central 1966"/>
+        <database id="592" name="Pubmed central 1967"/>
+        <database id="593" name="Pubmed central 1968"/>
+        <database id="569" name="Pubmed central 1969"/>
+        <database id="570" name="Pubmed central 1970"/>
+        <database id="571" name="Pubmed central 1971"/>
+        <database id="567" name="Pubmed central 1972"/>
+        <database id="568" name="Pubmed central 1973"/>
+        <database id="566" name="Pubmed central 1974"/>
+        <database id="564" name="Pubmed central 1975"/>
+        <database id="565" name="Pubmed central 1976"/>
+        <database id="563" name="Pubmed central 1977"/>
+        <database id="561" name="Pubmed central 1978"/>
+        <database id="562" name="Pubmed central 1979"/>
+        <database id="560" name="Pubmed central 1980"/>
+        <database id="558" name="Pubmed central 1981"/>
+        <database id="559" name="Pubmed central 1982"/>
+        <database id="594" name="Pubmed central 1983"/>
+        <database id="579" name="Pubmed central 1984"/>
+        <database id="580" name="Pubmed central 1985"/>
+        <database id="582" name="Pubmed central 1986"/>
+        <database id="583" name="Pubmed central 1987"/>
+        <database id="609" name="Pubmed central 1988"/>
+        <database id="610" name="Pubmed central 1989"/>
+        <database id="577" name="Pubmed central 1990"/>
+        <database id="578" name="Pubmed central 1991"/>
+        <database id="581" name="Pubmed central 1992"/>
+        <database id="575" name="Pubmed central 1993"/>
+        <database id="576" name="Pubmed central 1994"/>
+        <database id="595" name="Pubmed central 1995"/>
+        <database id="608" name="Pubmed central 1996"/>
+        <database id="596" name="Pubmed central 1997"/>
+        <database id="574" name="Pubmed central 1998"/>
+        <database id="551" name="Pubmed central 1999"/>
+        <database id="554" name="Pubmed central 2000"/>
+        <database id="553" name="Pubmed central 2001"/>
+        <database id="552" name="Pubmed central 2002"/>
+        <database id="550" name="Pubmed central 2003"/>
+        <database id="556" name="Pubmed central 2004"/>
+        <database id="555" name="Pubmed central 2005"/>
+        <database id="548" name="Pubmed central 2006"/>
+        <database id="547" name="Pubmed central 2007"/>
+        <database id="535" name="Pubmed central 2008"/>
+        <database id="544" name="Pubmed central 2009"/>
+        <database id="538" name="Pubmed central 2010"/>
+        <database id="541" name="Pubmed central 2011"/>
+        <database id="536" name="Pubmed central 2012"/>
+        <database id="545" name="Pubmed central 2013"/>
+        <database id="534" name="Pubmed central 2014"/>
+        <database id="533" name="Pubmed central 2015"/>
+        <database id="540" name="Pubmed central 2016"/>
+        <database id="537" name="Pubmed central 2017"/>
+        <database id="546" name="Pubmed central 2018"/>
+        <database id="612" name="Pubmed central 2019"/>
+        <database id="793" name="Pubmed central 2020"/>
+        <database id="794" name="Pubmed central 2021"/>
+        <database id="795" name="Pubmed central 2022"/>
+        <database id="743" name="RAP2018-11-26"/>
+        <database id="289" name="rcsb pdb" checked="1"/>
+        <database id="5" name="RefSeq"/>
+        <database id="51" name="RGD"/>
+        <database id="189" name="Rhea"/>
+        <database id="527" name="RNAcentral"/>
+        <database id="92" name="SGD" checked="1"/>
+        <database id="2" name="SWISSPROT_AC" checked="1"/>
+        <database id="69" name="TAIR"/>
+        <database id="744" name="tfclass"/>
+        <database id="642" name="TIGR_CMR"/>
+        <database id="867" name="TransFac"/>
+        <database id="48" name="UniPathway"/>
+        <database id="218" name="UniProtKB-KW"/>
+        <database id="236" name="UniProtKB-SubCell"/>
+        <database id="519" name="UniRule"/>
+        <database id="864" name="virhostnet-nrid"/>
+        <database id="862" name="virhostnet-rid"/>
+        <database id="307" name="WB"/>
+        <database id="32" name="WormBase"/>
+        <database id="290" name="wwpdb" checked="1"/>
+        <database id="87" name="Xenbase"/>
+        <database id="93" name="ZFIN"/>
+      </databases>
+      <interactiontypes>
+        <interactiontype id="172" name="activity downregulation"/>
+        <interactiontype id="171" name="activity regulation"/>
+        <interactiontype id="173" name="activity upregulation"/>
+        <interactiontype id="72" name="association"/>
+        <interactiontype id="31" name="catalyze"/>
+        <interactiontype id="101" name="catalyze modification"/>
+        <interactiontype id="147" name="cleavage"/>
+        <interactiontype id="149" name="coexpression"/>
+        <interactiontype id="100" name="conversion"/>
+        <interactiontype id="177" name="degradation downregulation"/>
+        <interactiontype id="181" name="degradation regulation"/>
+        <interactiontype id="176" name="degradation upregulation"/>
+        <interactiontype id="120" name="downregulation"/>
+        <interactiontype id="1" name="Expression"/>
+        <interactiontype id="157" name="expression downregulation"/>
+        <interactiontype id="158" name="expression regulation"/>
+        <interactiontype id="170" name="expression upregulation"/>
+        <interactiontype id="2" name="interaction" checked="1"/>
+        <interactiontype id="106" name="invasiveness downregulation"/>
+        <interactiontype id="105" name="invasiveness regulation"/>
+        <interactiontype id="118" name="invasiveness upregulation"/>
+        <interactiontype id="56" name="Involvement"/>
+        <interactiontype id="122" name="migration downregulation"/>
+        <interactiontype id="121" name="migration regulation"/>
+        <interactiontype id="127" name="migration upregulation"/>
+        <interactiontype id="41" name="miRNA regulation"/>
+        <interactiontype id="131" name="proliferation downregulation"/>
+        <interactiontype id="128" name="proliferation regulation"/>
+        <interactiontype id="129" name="proliferation upregulation"/>
+        <interactiontype id="155" name="regulation"/>
+        <interactiontype id="141" name="self_renewal downregulation"/>
+        <interactiontype id="136" name="self_renewal regulation"/>
+        <interactiontype id="140" name="self_renewal upregulation"/>
+        <interactiontype id="143" name="survival downregulation"/>
+        <interactiontype id="144" name="survival regulation"/>
+        <interactiontype id="142" name="survival upregulation"/>
+        <interactiontype id="197" name="transport regulation"/>
+        <interactiontype id="156" name="treatment"/>
+        <interactiontype id="119" name="upregulation"/>
+      </interactiontypes>
+    </interaction>
+  </interactions>
+</pathway_template>

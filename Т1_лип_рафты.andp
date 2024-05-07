@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pathway_template length="1" version="20210324">
+  <components>
+    <component id="0">
+      <types>
+        <type id="2" name="Protein" checked="1"/>
+        <type id="3" name="Gene"/>
+        <type id="4" name="Metabolite"/>
+        <type id="5" name="Pathway"/>
+        <type id="6" name="Disease"/>
+        <type id="7" name="miRNA"/>
+        <type id="8" name="Component"/>
+        <type id="10" name="Cell"/>
+        <type id="11" name="Molecular function"/>
+        <type id="12" name="Drug"/>
+        <type id="13" name="Side effect"/>
+        <type id="14" name="Phenotype"/>
+        <type id="15" name="Pathogen"/>
+      </types>
+      <species>
+        <organism id="7747" name="Homo sapiens"/>
+      </species>
+      <syn_components/>
+      <db_components>
+        <db_component id="PHB_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GBB1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAI2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="SNP23_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAI3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="QCR2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KPYM_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MPCP_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RAP1B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="CAV1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AHNK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="CD109_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PGK1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RL4_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="COX2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GBG12_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RB11B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="H4_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="TOM40_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ALBU_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NDUAD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="LTOR3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PLAK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RAB5B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAS2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="BST2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RS17_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GPC1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MUC18_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="EPHA2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KC1G2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="SFXN3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+      </db_components>
+    </component>
+    <component id="1">
+      <types>
+        <type id="2" name="Protein" checked="1"/>
+        <type id="3" name="Gene"/>
+        <type id="4" name="Metabolite"/>
+        <type id="5" name="Pathway"/>
+        <type id="6" name="Disease"/>
+        <type id="7" name="miRNA"/>
+        <type id="8" name="Component"/>
+        <type id="10" name="Cell"/>
+        <type id="11" name="Molecular function"/>
+        <type id="12" name="Drug"/>
+        <type id="13" name="Side effect"/>
+        <type id="14" name="Phenotype"/>
+        <type id="15" name="Pathogen"/>
+      </types>
+      <species>
+        <organism id="7747" name="Homo sapiens"/>
+      </species>
+      <syn_components/>
+      <db_components>
+        <db_component id="TR61B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLCTK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL1B1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ALDH2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3A1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3A2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3B1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL3B2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL7A1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AL9A1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UPP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UPP2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="DPYD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="TRMB_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="LACC1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KAD3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5M_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5C_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NTD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NT5D4_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT1B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT1A_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT3A_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADA2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR9_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYL1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYL2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYL3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLYAT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="CATD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MGMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MAOX_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MDHM_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MAON_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MDHC_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="FUMH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MAOM_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ADA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ITPA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENTP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENTP8_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENTP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NDKM_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="APT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR8_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR9_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PUR8_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PURA2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PURA1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="XDH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HPRT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="S29A2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KFA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KYNU_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="AOXA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NNMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="TRMB_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="5NT3B_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="APT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HPRT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GUAD_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="TGT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GCH1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAS2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAQ_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="PNPH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="QTRT2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNAI1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENPP1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ENPP3_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="COASY_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RGN_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GNTK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UCK2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="UCK1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="KGUA_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="RENBP_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="NAGK_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="GLCNE_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HNMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="DCHS_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="HRH2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MBD2_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="A1CF_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="MBD1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="ASMT_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="APOH_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="CRLS1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+        <db_component id="LCLT1_HUMAN" db_id="3" db_name="SWISSPROT_ID" component_type="Protein" component_type_id="2"/>
+      </db_components>
+    </component>
+  </components>
+  <interactions>
+    <interaction id="0" direction="0">
+      <databases>
+        <database id="298" name="afcs" checked="1"/>
+        <database id="299" name="AGI_LocusCode"/>
+        <database id="521" name="araport11"/>
+        <database id="303" name="AspGD"/>
+        <database id="27" name="BioGrid" checked="1"/>
+        <database id="139" name="CGD"/>
+        <database id="168" name="CHEBI" checked="1"/>
+        <database id="425" name="Clinvar"/>
+        <database id="640" name="ComplexPortal"/>
+        <database id="824" name="COVID19 Interactions"/>
+        <database id="85" name="dictyBase"/>
+        <database id="63" name="DIP" checked="1"/>
+        <database id="66" name="EC"/>
+        <database id="316" name="EcoliWiki"/>
+        <database id="4" name="EMBL"/>
+        <database id="297" name="emdb" checked="1"/>
+        <database id="661" name="EMPTY_NAME_ERROR"/>
+        <database id="41" name="Ensembl"/>
+        <database id="530" name="ENSEMBL_GeneID"/>
+        <database id="257" name="FB"/>
+        <database id="76" name="FlyBase"/>
+        <database id="308" name="GB"/>
+        <database id="306" name="GenBank"/>
+        <database id="445" name="GeneDB"/>
+        <database id="11" name="GeneID"/>
+        <database id="20" name="GO" checked="1"/>
+        <database id="310" name="GR_PROTEIN"/>
+        <database id="97" name="HGNC"/>
+        <database id="154" name="HPRD" checked="1"/>
+        <database id="291" name="imex" checked="1"/>
+        <database id="321" name="innatedb"/>
+        <database id="322" name="innatedb allergy"/>
+        <database id="42" name="IntAct" checked="1"/>
+        <database id="36" name="InterPro" checked="1"/>
+        <database id="311" name="JCVI_CMR"/>
+        <database id="305" name="KEGG REACTION accession"/>
+        <database id="318" name="KEGG_LIGAND"/>
+        <database id="319" name="MaizeGDB_Locus"/>
+        <database id="54" name="MGI"/>
+        <database id="99" name="MIM"/>
+        <database id="47" name="MINT" checked="1"/>
+        <database id="331" name="miRTarBase"/>
+        <database id="300" name="mpidb" checked="1"/>
+        <database id="528" name="NCBI_Gene"/>
+        <database id="304" name="NCBI_gi"/>
+        <database id="315" name="NCBI_GP"/>
+        <database id="45" name="PANTHER"/>
+        <database id="21" name="PDB"/>
+        <database id="293" name="pdbe"/>
+        <database id="38" name="Pfam"/>
+        <database id="14" name="PIR"/>
+        <database id="869" name="PlantregMap"/>
+        <database id="77" name="PomBase"/>
+        <database id="247" name="PR"/>
+        <database id="309" name="protein_id"/>
+        <database id="292" name="psi-mi" checked="1"/>
+        <database id="858" name="psi-mi:MI"/>
+        <database id="254" name="PubChem_Compound"/>
+        <database id="317" name="PubChem_Substance"/>
+        <database id="221" name="Pubmed"/>
+        <database id="507" name="Pubmed 1990"/>
+        <database id="511" name="Pubmed 1991"/>
+        <database id="503" name="Pubmed 1992"/>
+        <database id="491" name="Pubmed 1993"/>
+        <database id="490" name="Pubmed 1994"/>
+        <database id="494" name="Pubmed 1995"/>
+        <database id="501" name="Pubmed 1996"/>
+        <database id="506" name="Pubmed 1997"/>
+        <database id="509" name="Pubmed 1998"/>
+        <database id="505" name="Pubmed 1999"/>
+        <database id="498" name="Pubmed 2000"/>
+        <database id="487" name="Pubmed 2001"/>
+        <database id="492" name="Pubmed 2002"/>
+        <database id="508" name="Pubmed 2003"/>
+        <database id="489" name="Pubmed 2004"/>
+        <database id="510" name="Pubmed 2005"/>
+        <database id="486" name="Pubmed 2006"/>
+        <database id="497" name="Pubmed 2007"/>
+        <database id="496" name="Pubmed 2008"/>
+        <database id="504" name="Pubmed 2009"/>
+        <database id="502" name="Pubmed 2010"/>
+        <database id="500" name="Pubmed 2011"/>
+        <database id="493" name="Pubmed 2012"/>
+        <database id="488" name="Pubmed 2013"/>
+        <database id="499" name="Pubmed 2014"/>
+        <database id="495" name="Pubmed 2015"/>
+        <database id="512" name="Pubmed 2016"/>
+        <database id="518" name="Pubmed 2017"/>
+        <database id="532" name="Pubmed 2018"/>
+        <database id="787" name="Pubmed 2019"/>
+        <database id="786" name="Pubmed 2020"/>
+        <database id="791" name="Pubmed 2021"/>
+        <database id="573" name="Pubmed central"/>
+        <database id="557" name="Pubmed central 1900"/>
+        <database id="572" name="Pubmed central 1901"/>
+        <database id="634" name="Pubmed central 1931"/>
+        <database id="617" name="Pubmed central 1932"/>
+        <database id="618" name="Pubmed central 1933"/>
+        <database id="619" name="Pubmed central 1934"/>
+        <database id="621" name="Pubmed central 1935"/>
+        <database id="630" name="Pubmed central 1936"/>
+        <database id="626" name="Pubmed central 1938"/>
+        <database id="628" name="Pubmed central 1939"/>
+        <database id="629" name="Pubmed central 1940"/>
+        <database id="627" name="Pubmed central 1941"/>
+        <database id="631" name="Pubmed central 1942"/>
+        <database id="620" name="Pubmed central 1943"/>
+        <database id="625" name="Pubmed central 1944"/>
+        <database id="623" name="Pubmed central 1945"/>
+        <database id="624" name="Pubmed central 1946"/>
+        <database id="584" name="Pubmed central 1947"/>
+        <database id="549" name="Pubmed central 1948"/>
+        <database id="585" name="Pubmed central 1949"/>
+        <database id="586" name="Pubmed central 1950"/>
+        <database id="587" name="Pubmed central 1951"/>
+        <database id="588" name="Pubmed central 1952"/>
+        <database id="589" name="Pubmed central 1953"/>
+        <database id="590" name="Pubmed central 1954"/>
+        <database id="602" name="Pubmed central 1955"/>
+        <database id="605" name="Pubmed central 1956"/>
+        <database id="603" name="Pubmed central 1957"/>
+        <database id="604" name="Pubmed central 1958"/>
+        <database id="606" name="Pubmed central 1959"/>
+        <database id="607" name="Pubmed central 1960"/>
+        <database id="597" name="Pubmed central 1961"/>
+        <database id="598" name="Pubmed central 1962"/>
+        <database id="599" name="Pubmed central 1963"/>
+        <database id="600" name="Pubmed central 1964"/>
+        <database id="601" name="Pubmed central 1965"/>
+        <database id="591" name="Pubmed central 1966"/>
+        <database id="592" name="Pubmed central 1967"/>
+        <database id="593" name="Pubmed central 1968"/>
+        <database id="569" name="Pubmed central 1969"/>
+        <database id="570" name="Pubmed central 1970"/>
+        <database id="571" name="Pubmed central 1971"/>
+        <database id="567" name="Pubmed central 1972"/>
+        <database id="568" name="Pubmed central 1973"/>
+        <database id="566" name="Pubmed central 1974"/>
+        <database id="564" name="Pubmed central 1975"/>
+        <database id="565" name="Pubmed central 1976"/>
+        <database id="563" name="Pubmed central 1977"/>
+        <database id="561" name="Pubmed central 1978"/>
+        <database id="562" name="Pubmed central 1979"/>
+        <database id="560" name="Pubmed central 1980"/>
+        <database id="558" name="Pubmed central 1981"/>
+        <database id="559" name="Pubmed central 1982"/>
+        <database id="594" name="Pubmed central 1983"/>
+        <database id="579" name="Pubmed central 1984"/>
+        <database id="580" name="Pubmed central 1985"/>
+        <database id="582" name="Pubmed central 1986"/>
+        <database id="583" name="Pubmed central 1987"/>
+        <database id="609" name="Pubmed central 1988"/>
+        <database id="610" name="Pubmed central 1989"/>
+        <database id="577" name="Pubmed central 1990"/>
+        <database id="578" name="Pubmed central 1991"/>
+        <database id="581" name="Pubmed central 1992"/>
+        <database id="575" name="Pubmed central 1993"/>
+        <database id="576" name="Pubmed central 1994"/>
+        <database id="595" name="Pubmed central 1995"/>
+        <database id="608" name="Pubmed central 1996"/>
+        <database id="596" name="Pubmed central 1997"/>
+        <database id="574" name="Pubmed central 1998"/>
+        <database id="551" name="Pubmed central 1999"/>
+        <database id="554" name="Pubmed central 2000"/>
+        <database id="553" name="Pubmed central 2001"/>
+        <database id="552" name="Pubmed central 2002"/>
+        <database id="550" name="Pubmed central 2003"/>
+        <database id="556" name="Pubmed central 2004"/>
+        <database id="555" name="Pubmed central 2005"/>
+        <database id="548" name="Pubmed central 2006"/>
+        <database id="547" name="Pubmed central 2007"/>
+        <database id="535" name="Pubmed central 2008"/>
+        <database id="544" name="Pubmed central 2009"/>
+        <database id="538" name="Pubmed central 2010"/>
+        <database id="541" name="Pubmed central 2011"/>
+        <database id="536" name="Pubmed central 2012"/>
+        <database id="545" name="Pubmed central 2013"/>
+        <database id="534" name="Pubmed central 2014"/>
+        <database id="533" name="Pubmed central 2015"/>
+        <database id="540" name="Pubmed central 2016"/>
+        <database id="537" name="Pubmed central 2017"/>
+        <database id="546" name="Pubmed central 2018"/>
+        <database id="612" name="Pubmed central 2019"/>
+        <database id="793" name="Pubmed central 2020"/>
+        <database id="794" name="Pubmed central 2021"/>
+        <database id="795" name="Pubmed central 2022"/>
+        <database id="743" name="RAP2018-11-26"/>
+        <database id="289" name="rcsb pdb" checked="1"/>
+        <database id="5" name="RefSeq"/>
+        <database id="51" name="RGD"/>
+        <database id="189" name="Rhea"/>
+        <database id="527" name="RNAcentral"/>
+        <database id="92" name="SGD" checked="1"/>
+        <database id="2" name="SWISSPROT_AC" checked="1"/>
+        <database id="69" name="TAIR"/>
+        <database id="744" name="tfclass"/>
+        <database id="642" name="TIGR_CMR"/>
+        <database id="867" name="TransFac"/>
+        <database id="48" name="UniPathway"/>
+        <database id="218" name="UniProtKB-KW"/>
+        <database id="236" name="UniProtKB-SubCell"/>
+        <database id="519" name="UniRule"/>
+        <database id="864" name="virhostnet-nrid"/>
+        <database id="862" name="virhostnet-rid"/>
+        <database id="307" name="WB"/>
+        <database id="32" name="WormBase"/>
+        <database id="290" name="wwpdb" checked="1"/>
+        <database id="87" name="Xenbase"/>
+        <database id="93" name="ZFIN"/>
+      </databases>
+      <interactiontypes>
+        <interactiontype id="172" name="activity downregulation"/>
+        <interactiontype id="171" name="activity regulation"/>
+        <interactiontype id="173" name="activity upregulation"/>
+        <interactiontype id="72" name="association"/>
+        <interactiontype id="31" name="catalyze"/>
+        <interactiontype id="101" name="catalyze modification"/>
+        <interactiontype id="147" name="cleavage"/>
+        <interactiontype id="149" name="coexpression"/>
+        <interactiontype id="100" name="conversion"/>
+        <interactiontype id="177" name="degradation downregulation"/>
+        <interactiontype id="181" name="degradation regulation"/>
+        <interactiontype id="176" name="degradation upregulation"/>
+        <interactiontype id="120" name="downregulation"/>
+        <interactiontype id="1" name="Expression"/>
+        <interactiontype id="157" name="expression downregulation"/>
+        <interactiontype id="158" name="expression regulation"/>
+        <interactiontype id="170" name="expression upregulation"/>
+        <interactiontype id="2" name="interaction" checked="1"/>
+        <interactiontype id="106" name="invasiveness downregulation"/>
+        <interactiontype id="105" name="invasiveness regulation"/>
+        <interactiontype id="118" name="invasiveness upregulation"/>
+        <interactiontype id="56" name="Involvement"/>
+        <interactiontype id="122" name="migration downregulation"/>
+        <interactiontype id="121" name="migration regulation"/>
+        <interactiontype id="127" name="migration upregulation"/>
+        <interactiontype id="41" name="miRNA regulation"/>
+        <interactiontype id="131" name="proliferation downregulation"/>
+        <interactiontype id="128" name="proliferation regulation"/>
+        <interactiontype id="129" name="proliferation upregulation"/>
+        <interactiontype id="155" name="regulation"/>
+        <interactiontype id="141" name="self_renewal downregulation"/>
+        <interactiontype id="136" name="self_renewal regulation"/>
+        <interactiontype id="140" name="self_renewal upregulation"/>
+        <interactiontype id="143" name="survival downregulation"/>
+        <interactiontype id="144" name="survival regulation"/>
+        <interactiontype id="142" name="survival upregulation"/>
+        <interactiontype id="197" name="transport regulation"/>
+        <interactiontype id="156" name="treatment"/>
+        <interactiontype id="119" name="upregulation"/>
+      </interactiontypes>
+    </interaction>
+  </interactions>
+</pathway_template>
