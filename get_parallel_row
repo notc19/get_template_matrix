@@ -1,0 +1,56 @@
+#!/bin/bash
+s0=$1
+len=$2
+TEMPLATE=$3
+
+PID=$$
+
+      cat $TEMPLATE.tmp > $TEMPLATE.tmp.$PID.0
+      if [[ "$s0" =~ ^\<db_ ]]; then
+          xmlstarlet ed -L -s "//component[@id=0]/db_components" -t elem -n START  $TEMPLATE.tmp.$PID.0
+          name0=$(echo "$s0" | xidel --xpath '//db_component/@id' - )
+          name0=${name0#*=}
+      else
+          xmlstarlet ed -L -s "//component[@id=0]/syn_components" -t elem -n START  $TEMPLATE.tmp.$PID.0
+          name0=$(echo "$s0" | xidel --xpath '//syn_component/@name' - )
+          name0=${name0#*=}
+     fi
+     echo -n "$name0"
+     sed -i 's|<START/>|'"$s0"'|' $TEMPLATE.tmp.$PID.0
+
+     (cat $TEMPLATE.tmp.$len.xml) | \
+       while read s1
+         do
+           #echo $s0
+           #echo $s1
+           #echo ""
+           cat $TEMPLATE.tmp.$PID.0 > $TEMPLATE.$PID.andp
+
+           if [[ "$s1" =~ ^\<db_ ]]; then
+               xmlstarlet ed -L -s "//component[@id=${len}]/db_components" -t elem -n STOP  $TEMPLATE.$PID.andp
+               name1=$(echo "$s1" | xidel --xpath '//db_component/@id' - )
+               name1=${name1#*=}
+           else
+               xmlstarlet ed -L -s "//component[@id=${len}]/syn_components" -t elem -n STOP  $TEMPLATE.$PID.andp
+               name1=$(echo "$s1" | xidel --xpath '//syn_component/@name' - )
+               name1=${name1#*=}
+           fi
+           #echo "$name0 $name1"
+           sed -i 's|<STOP/>|'"$s1"'|' $TEMPLATE.$PID.andp
+
+
+           while [ ! -e $TEMPLATE.$PID.nnp ]
+           do
+              ANDVisio_cli -p $TEMPLATE.$PID.andp -o $TEMPLATE.$PID.nnp >/dev/null 2>&1
+           done
+
+           count=$(grep -Ec '\->|--' $TEMPLATE.$PID.nnp | awk '{ if($1>0){$1=1}; print $1;}') #'
+
+           echo -n "	$count"
+
+           rm -f $TEMPLATE.$PID.nnp $TEMPLATE.$PID.andp
+           #exit
+         done
+      echo ""
+      #exit
+      rm $TEMPLATE.tmp.$PID.0
